@@ -7,7 +7,7 @@
 <img width="760" alt="스크린샷 2024-05-06 175537" src="https://github.com/gyulhongsy/Unity-Study/assets/80159575/3c34dbba-55f5-41d9-99b3-1a3758798bdc">
 
 - 우측 상단의 `New project` 클릭
-<img width="760" alt="스크린샷 2024-05-06 175636" src="https://github.com/gyulhongsy/Unity-Study/assets/80159575/89dc4f28-6bee-4368-8dcc-f1e8f2b3b851">
+<img width="760" alt="스크린샷 2024-05-06 175636" src="https://github.com/gyulhongsy/Unity-Study/assets/80159575/5b32ed58-2dd2-4312-8090-7fbcd0cb0c36">
 
 - 탬플릿, 버전 선택 후 프로젝트 이름 입력 (협업 시 다른 팀원과 동일하게 맞춰야 합니다!)
 - 우측 하단의 `Create project` 클릭
