@@ -1,4 +1,4 @@
-# 유니티 설치 및 개발환경 구축
+# 유니티 시작하기
 ### 1. 유니티 다운로드
 - [다운로드 링크](https://unity.com/kr/download)를 방문하여 다운로드
 <br>
@@ -13,7 +13,10 @@
 - 우측 하단의 `Create project` 클릭
 <br>
 
-### 3. 비주얼 스튜디오에 유니티 개발 환경 추가하기
+### 3. 인터페이스 살펴보기
+<br>
+
+### 4. 비주얼 스튜디오에 유니티 개발 환경 추가하기
 <img width="302" alt="스크린샷 2024-05-06 170825" src="https://github.com/gyulhongsy/Unity-Study/assets/80159575/580b37f1-3f32-4e54-b048-7b325cb05eb6">
 
 - 비주얼 스튜디오에서 `도구 > 도구 및 기능 가져오기` 클릭
@@ -24,7 +27,7 @@
 - 우측 하단의 `수정` 클릭 &rarr; 설치 진행
 <br>
 
-### 4. 유니티 프로젝트에서 비주얼 스튜디오 연동하기
+### 5. 유니티 프로젝트에서 비주얼 스튜디오 연동하기
 <img width="329" alt="스크린샷 2024-05-06 173829" src="https://github.com/gyulhongsy/Unity-Study/assets/80159575/a9bd6fb0-ad27-4f6b-9e56-f20e03aa6b49">
 
 - 생성된 프로젝트에서 `Edit > Preferences` 선택
