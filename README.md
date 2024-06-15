@@ -3,7 +3,7 @@
 - 진행 일자: 6월 17일 ~ 7월 3일
 - 매주 스터디 진행 후 과제를 디스코드에 제출
 - 출석체크는 과제 제출로 대체합니다.
-- [스터디 자료 다운로드](docs/cd1.zip)
+- 스터디 자료 다운로드: [링크 방문 후 '부록 CD 다운로드' 클릭](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931463408&seq=6778&cate_cd=1&child_cate_cd=9&goPage=1&orderByCd=1&searchType=Y&keyword1=%C0%AF%B4%CF%C6%BC)
 - 참고 도서
   - 윤인성, C# 프로그래밍: 프로그래밍 기초부터 객체 지향 핵심까지, 한빛아카데미, 2021
   - 모리 요시나오, 유니티를 몰라도 만들 수 있는 유니티 2D 게임 제작, 김은철(역), 유세라(역), 영진닷컴, 2021
