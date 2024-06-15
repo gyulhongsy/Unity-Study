@@ -2,7 +2,7 @@
 참고 도서: 윤인성, C# 프로그래밍: 프로그래밍 기초부터 객체 지향 핵심까지, 한빛아카데미, 2021
 
 **목차**
-1. 기본 문법
+1. [기본 문법](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/week1/grammer.md#1-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
 2. 자료형과 변수
 3. 조건문
 4. 반복문
