@@ -4,17 +4,17 @@
 <br>
 
 ### 2. 새 프로젝트 생성
-<img width="1000" alt="unityHub" src="../../imgs/01/01_unityHub.png">
+<img width="1000" alt="unityHub" src="../imgs/01/01_unityHub.png">
 
 - 우측 상단의 `New project` 클릭
-<img width="1000" alt="makeProject" src="../../imgs/01/02_makeProject.png">
+<img width="1000" alt="makeProject" src="../imgs/01/02_makeProject.png">
 
 - 탬플릿, 버전 선택 후 프로젝트 이름 입력 (협업 시 다른 팀원과 동일하게 맞춰야 합니다!)
 - 우측 하단의 `Create project` 클릭
 <br>
 
 ### 3. 인터페이스 간단히 살펴보기
-<img width="1000" alt="unityScene" src="../../imgs/01/03_unityScene.png">
+<img width="1000" alt="unityScene" src="../imgs/01/03_unityScene.png">
 
 - 1: **씬 뷰**
   - 게임의 화면을 만드는 부분
@@ -39,10 +39,10 @@
 <br>
 
 ### 4. 비주얼 스튜디오에 유니티 개발 환경 추가하기
-<img width="500" alt="vsSetting" src="../../imgs/01/04_VSSetting_1.png">
+<img width="500" alt="vsSetting" src="../imgs/01/04_VSSetting_1.png">
 
 - 비주얼 스튜디오에서 `도구 > 도구 및 기능 가져오기` 클릭
-<img width="1000" alt="vsSetting" src="../../imgs/01/04_VSSetting_2.png">
+<img width="1000" alt="vsSetting" src="../imgs/01/04_VSSetting_2.png">
 
 - `Unity를 사용한 게임 개발` 체크박스 선택 후 오른쪽의 선택 사항도 모두 체크
   - (`C++를 사용한 게임 개발`은 선택하지 않으셔도 됩니다!)
@@ -50,10 +50,10 @@
 <br>
 
 ### 5. 유니티 프로젝트에서 비주얼 스튜디오 연동하기
-<img width="500" alt="addVS" src="../../imgs/01/05_addVS_1.png">
+<img width="500" alt="addVS" src="../imgs/01/05_addVS_1.png">
 
 - 생성된 프로젝트에서 `Edit > Preferences` 선택
-<img width="800" alt="addVS" src="../../imgs/01/05_addVS_2.png">
+<img width="800" alt="addVS" src="../imgs/01/05_addVS_2.png">
 
 - External Tools의 `External Script Editor`를 비주얼 스튜디오로 선택
   - 설치된 버전에 맞게 선택하시면 됩니다!
