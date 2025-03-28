@@ -3,7 +3,7 @@
 - [다운로드 링크](https://unity.com/kr/download)를 방문하여 다운로드
 <br>
 
-### 2. 새 프로젝트 생성
+### 2. 새 프로젝트 생성 
 <img width="1000" alt="unityHub" src="../imgs/01/01_unityHub.png">
 
 - 우측 상단의 `New project` 클릭
