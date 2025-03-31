@@ -6,10 +6,10 @@
 *참고 도서: 윤인성, C# 프로그래밍: 프로그래밍 기초부터 객체 지향 핵심까지, 한빛아카데미, 2021*
 
 **목차**
-1. [기본 문법](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/week1/grammer.md#1-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
-2. [자료형과 변수](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/week1/grammer.md#2-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EB%B3%80%EC%88%98)
-3. [조건문](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/week1/grammer.md#3-%EC%A1%B0%EA%B1%B4%EB%AC%B8)
-4. [반복문](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/week1/grammer.md#4-%EB%B0%98%EB%B3%B5%EB%AC%B8)
+1. [기본 문법](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/grammer.md#1-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
+2. [자료형과 변수](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/grammer.md#2-%EC%9E%90%EB%A3%8C%ED%98%95%EA%B3%BC-%EB%B3%80%EC%88%98)
+3. [조건문](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/grammer.md#3-%EC%A1%B0%EA%B1%B4%EB%AC%B8)
+4. [반복문](https://github.com/gyulhongsy/Unity-Study/blob/main/docs/grammer.md#4-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 <br>
 
 
